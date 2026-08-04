@@ -6,3 +6,5 @@ elif idade == 18:
     print("Fez aniversário esse ano pivete, parabéns!")
 else:
     print("Menor de idade")
+
+#Estrutura
